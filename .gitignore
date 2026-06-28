@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+*.egg
+.idea/
+.vscode/
+*.db
+*.sqlite3
+db.sqlite3
+media/
+static/
+.DS_Store
+
+# Django
+*.log
+local_settings.py
+*.pot
+*.pyc
+
+# React
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Other
+.env
+*.env
+.env.example
